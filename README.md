@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lion0707
 - 👀 I’m interested in python/sas/statistic
 - 🌱 I’m currently learning statistic/algorithm
-- 💞️ I’m looking to collaborate on a Pharmaceutical company in china mainland
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
